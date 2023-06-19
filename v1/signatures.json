@@ -551,6 +551,14 @@
       "created_at": "2023-06-07T22:47:05Z",
       "repoId": 422359641,
       "pullRequestNo": 127
+    },
+    {
+      "name": "staskosatkin",
+      "id": 10325651,
+      "comment_id": 1596960825,
+      "created_at": "2023-06-19T10:51:51Z",
+      "repoId": 396856161,
+      "pullRequestNo": 1388
     }
   ]
 }
