@@ -719,6 +719,14 @@
       "created_at": "2023-11-28T02:47:58Z",
       "repoId": 396856161,
       "pullRequestNo": 1663
+    },
+    {
+      "name": "sashayakovtseva",
+      "id": 20927474,
+      "comment_id": 1837227358,
+      "created_at": "2023-12-02T18:51:00Z",
+      "repoId": 396856161,
+      "pullRequestNo": 1676
     }
   ]
 }
