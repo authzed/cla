@@ -119,6 +119,14 @@
       "created_at": "2024-07-11T21:47:12Z",
       "repoId": 422359641,
       "pullRequestNo": 237
+    },
+    {
+      "name": "suzuki-shunsuke",
+      "id": 13323303,
+      "comment_id": 2229325112,
+      "created_at": "2024-07-15T20:17:21Z",
+      "repoId": 357107303,
+      "pullRequestNo": 397
     }
   ]
 }
