@@ -415,6 +415,14 @@
       "created_at": "2025-05-17T10:40:39Z",
       "repoId": 396856161,
       "pullRequestNo": 2392
+    },
+    {
+      "name": "katallaxie",
+      "id": 570959,
+      "comment_id": 2846452411,
+      "created_at": "2025-05-02T06:16:09Z",
+      "repoId": 396856161,
+      "pullRequestNo": 2379
     }
   ]
 }
