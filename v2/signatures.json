@@ -839,6 +839,14 @@
       "created_at": "2026-08-27T15:36:12Z",
       "repoId": 491227630,
       "pullRequestNo": 444
+    },
+    {
+      "name": "oleksii-udovychenko",
+      "id": 1110375,
+      "comment_id": 5561170704,
+      "created_at": "2026-09-06T18:13:34Z",
+      "repoId": 396856161,
+      "pullRequestNo": 3296
     }
   ]
 }
